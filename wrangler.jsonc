@@ -1,0 +1,8 @@
+{
+  "$schema": "https://unpkg.com/wrangler/config-schema.json",
+  "name": "marcorios-bekheit-website",
+  "compatibility_date": "2026-09-27",
+  "assets": {
+    "directory": "./public"
+  }
+}
